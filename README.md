@@ -4,4 +4,4 @@ instagram
 status
 reel
 post
-views count
+views time
