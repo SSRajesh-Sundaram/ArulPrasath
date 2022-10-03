@@ -5,3 +5,4 @@ status
 reel
 post
 views time
+profile pic
